@@ -1,1 +1,0 @@
-# C---RLC-kolo-simulacija
